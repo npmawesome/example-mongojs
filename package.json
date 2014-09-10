@@ -1,0 +1,9 @@
+{
+  "name": "example-mongojs",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "mongojs": "^0.14.1"
+  }
+}
