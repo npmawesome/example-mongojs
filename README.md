@@ -1,7 +1,7 @@
 example-mongojs
 ================
 
-This example refers to the article on [nodejitsu.com](http://...) and [npmawesome.com](http://...) about `mongojs`.
+This example refers to the article on [nodejitsu.com](http://blog.nodejitsu.com/npmawesome-mongojs-a-driver-to-closer-match-mongodb-api/) and [npmawesome.com](http://npmawesome.com/posts/2014-09-11-mongojs/) about `mongojs`.
 
 ## Usage
 
